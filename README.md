@@ -6,7 +6,7 @@ The project involves creating a dropdown menu that appears to "follow along" wit
 
 ---
 
-# # Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
